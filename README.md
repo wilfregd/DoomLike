@@ -11,4 +11,4 @@ Projet Old School rappelant les jeux type “Doom”, se démarquant par l’id�
 - [ ] Pré-charger les scènes pour éviter les ralentissements d'instanciations
 - [ ] IA des ennemis: 
     - Move-to si le joueur est en vue
-    - Tir avec chance en fonction de la distanceet délai aléatoire
+    - Tir avec chance en fonction de la distance et délai aléatoire
