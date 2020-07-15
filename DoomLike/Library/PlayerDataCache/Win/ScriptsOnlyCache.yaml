@@ -1,0 +1,2444 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - AudioManager
+    - CameraFilterPack_Real_VHS
+    - DebugGizmos
+    - DoorSliding
+    - EnemyZombie
+    - GameManager
+    - GunWeapon
+    - MeleeWeapon
+    - PSXEffects
+    - PlayerFootstepsController
+    - PlayerInteractionController
+    - PlayerMovementController
+    - PlayerWeaponController
+    - SceneManager
+    - TimedDestroy
+    - WeaponDrop
+    Unity.ProBuilder.Editor.dll:
+    - UnityEditor.ProBuilder.EditorToolbar
+    - UnityEditor.ProBuilder.MaterialEditor
+    - UnityEditor.ProBuilder.MaterialPalette
+    - UnityEditor.ProBuilder.ProBuilderEditor
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.RiderScriptEditorData
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    UnityEditor.Graphs.dll:
+    - UnityEditor.Graphs.AnimationBlendTree.Graph
+    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
+    - UnityEditor.Graphs.AnimationStateMachine.Graph
+    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
+    - UnityEditor.Graphs.AnimatorControllerTool
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.Outline
+    - UnityEngine.UI.Slider
+    - UnityEngine.UI.Text
+  sceneClasses:
+    Assets/Scenes/SampleScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 109
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11780}
+    - Class: 114
+      Script: {instanceID: 11782}
+    - Class: 114
+      Script: {instanceID: 11784}
+    - Class: 114
+      Script: {instanceID: 11790}
+    - Class: 114
+      Script: {instanceID: 11818}
+    - Class: 114
+      Script: {instanceID: 12158}
+    - Class: 114
+      Script: {instanceID: 12234}
+    - Class: 114
+      Script: {instanceID: 12280}
+    - Class: 114
+      Script: {instanceID: 12794}
+    - Class: 114
+      Script: {instanceID: 12858}
+    - Class: 114
+      Script: {instanceID: 13024}
+    - Class: 114
+      Script: {instanceID: 13168}
+    - Class: 114
+      Script: {instanceID: 13286}
+    - Class: 114
+      Script: {instanceID: 13560}
+    - Class: 114
+      Script: {instanceID: 13738}
+    - Class: 114
+      Script: {instanceID: 13842}
+    - Class: 114
+      Script: {instanceID: 13956}
+    - Class: 114
+      Script: {instanceID: 14210}
+    - Class: 114
+      Script: {instanceID: 14286}
+    - Class: 114
+      Script: {instanceID: 14370}
+    - Class: 114
+      Script: {instanceID: 14500}
+    - Class: 114
+      Script: {instanceID: 14740}
+    - Class: 114
+      Script: {instanceID: 14816}
+    - Class: 114
+      Script: {instanceID: 14914}
+    - Class: 114
+      Script: {instanceID: 14988}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 143
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_PinLight
+  - hash:
+      serializedVersion: 2
+      Hash: 0e473da3aa6a2fa43e818f28657a31dc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Distortion
+  - hash:
+      serializedVersion: 2
+      Hash: 13ba9e01aebcf8737ce96f1dcf82dc54
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Hue
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Color
+  - hash:
+      serializedVersion: 2
+      Hash: 6b63549293c93c42ad5f5b83e1687b53
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_Sepia
+  - hash:
+      serializedVersion: 2
+      Hash: ec3ef9d4541f229c020afc5b9d340fa4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Paper3
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Grid
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 626925ef558787b2d85c809198164d19
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 7bb49b2bcff1ba28be82e748ec37b081
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Glow_Glow
+  - hash:
+      serializedVersion: 2
+      Hash: b6eb731ac4369d96e44b39203292b03e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_EXTRA_SHOWFPS
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Glitch1
+  - hash:
+      serializedVersion: 2
+      Hash: a147b6931e57a961e62c480845ae7d42
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_AAA_BloodOnScreen
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_superDot
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Hexagon_Black
+  - hash:
+      serializedVersion: 2
+      Hash: ae7f47e6634232d1be912f395005adad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Crystal
+  - hash:
+      serializedVersion: 2
+      Hash: f25177ccfc985591ca4b9099697ec8f2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Blend
+  - hash:
+      serializedVersion: 2
+      Hash: 9c7c87712e298256d276eb96e02a57b1
+    assemblyName: Unity.ProBuilder.dll
+    namespaceName: UnityEngine.ProBuilder
+    className: PreferenceDictionary
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_Ansi
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Light_Rainbow2
+  - hash:
+      serializedVersion: 2
+      Hash: b3bb882438911769a3e6474ac0d6a75a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Old_Movie_2
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: bf2cbef6fd54adcb45a232a698583431
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Distorted
+  - hash:
+      serializedVersion: 2
+      Hash: c86fc14bd363d23309c5318b3109a15f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Noise_TV_3
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Edge_BlackLine
+  - hash:
+      serializedVersion: 2
+      Hash: 759b122c24075dccf7092ab5b2471528
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Pixelisation_Sweater
+  - hash:
+      serializedVersion: 2
+      Hash: dfd2955118e5356161e72f8712aa016c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_RgbClamp
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Videoflip
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: be6c36372be0a9ae125edb4d3797e823
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_BlurHole
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Glitch2
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: VertexColors
+  - hash:
+      serializedVersion: 2
+      Hash: 21c378d05b4f53e9e6907c9367e05ff2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Bloom
+  - hash:
+      serializedVersion: 2
+      Hash: 11e9149419d55b87a504d6903b826fcb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_AAA_SuperComputer
+  - hash:
+      serializedVersion: 2
+      Hash: 10ad58907eaff06675fdb6700261a774
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TimedDestroy
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 2ac77b16f06d19e9b3c32dc85a5b2ea2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_Switching
+  - hash:
+      serializedVersion: 2
+      Hash: d40f07a54262dda0ae144907b2308813
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_AuraDistortion
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_50
+  - hash:
+      serializedVersion: 2
+      Hash: 58a3329d037e9c5fd6f9832d929008fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Plasma
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 234235b9fb07320d11497e08a726cc56
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 38f4d58547a2e54f6354656f5051874f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_Brightness
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Glitch3
+  - hash:
+      serializedVersion: 2
+      Hash: f6633ace6e530c0000f2ac6da4269c52
+    assemblyName: Unity.ProBuilder.dll
+    namespaceName: UnityEngine.ProBuilder
+    className: PolyShape
+  - hash:
+      serializedVersion: 2
+      Hash: 7002f1c9ff2168b2fc2cf3d1569961ee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerInteractionController
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Old
+  - hash:
+      serializedVersion: 2
+      Hash: 2f07fe1511e9316c880ce02d69dcb0f0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Crosshatch
+  - hash:
+      serializedVersion: 2
+      Hash: 171ee9e3d32f57eb7292b56ea94de3d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_Threshold
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_NeonGradient
+  - hash:
+      serializedVersion: 2
+      Hash: c73b4f953fa6ec40608ac124f2a0422d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Aspiration
+  - hash:
+      serializedVersion: 2
+      Hash: e7e5ebe8d648fcff9d2595af7ac24d69
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_Adjust_FullColors
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_LinearLight
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_DarkerColor
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Subtract
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_Tech
+  - hash:
+      serializedVersion: 2
+      Hash: 51fc19c92c647707bcdfff3bb078658b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Matrix
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: f54ae57163c21be1eeae3089e3ba7976
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_AAA_WaterDrop
+  - hash:
+      serializedVersion: 2
+      Hash: 041ceecf154486490dfaded59df4ac4e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_ARCADE_Fast
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_InverChromiLum
+  - hash:
+      serializedVersion: 2
+      Hash: 36f96c190e244321e128769d9c5120ac
+    assemblyName: Unity.ProBuilder.dll
+    namespaceName: UnityEngine.ProBuilder
+    className: ProBuilderMesh
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_80
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 3154952faf452b2aea2f940f11632d8d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Manga_Color
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 2a497de10efb55a7213c1b3c784739f3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Oculus_NightVision2
+  - hash:
+      serializedVersion: 2
+      Hash: d941ab6dd93d37ffdf2277f2ea2375a0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_FishEye
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Pixelisation_OilPaintHQ
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_BleachBypass
+  - hash:
+      serializedVersion: 2
+      Hash: 605b769c4669b3898ba0d9534311f20d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Focus
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c86fc14bd363d23309c5318b3109a15f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Noise_TV_2
+  - hash:
+      serializedVersion: 2
+      Hash: 9524fe645895b64a250d60f961bedf96
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_Adjust_ColorRGB
+  - hash:
+      serializedVersion: 2
+      Hash: 6f460a72612391e2b22a3c26d311be41
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Shield
+  - hash:
+      serializedVersion: 2
+      Hash: 32f6d1d5a09e5c94c633a32edd3e6836
+    assemblyName: Unity.ProBuilder.dll
+    namespaceName: UnityEngine.ProBuilder
+    className: BezierShape
+  - hash:
+      serializedVersion: 2
+      Hash: 6aa6e4b501b57a96b722471d7892c154
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Curve
+  - hash:
+      serializedVersion: 2
+      Hash: 3154952faf452b2aea2f940f11632d8d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Comics
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Plasma
+  - hash:
+      serializedVersion: 2
+      Hash: d71ca2fc909fff76041962b89cf50801
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Blurry
+  - hash:
+      serializedVersion: 2
+      Hash: ea9544975159509b61f6f956d939ce3f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Warp
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 0cea529585ef8cf0023d9c524915596a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Pixel_Pixelisation
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_HardMix
+  - hash:
+      serializedVersion: 2
+      Hash: 9559cc5ae879afa7baf32e0d20a8ee3c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Tilt_Shift
+  - hash:
+      serializedVersion: 2
+      Hash: bb6c52a6dfed4379851dc1f068e45663
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_OldFilm_Cutting2
+  - hash:
+      serializedVersion: 2
+      Hash: 1856b782b2e5421cb37d085f1eb643f0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Water_Drop
+  - hash:
+      serializedVersion: 2
+      Hash: 708f32d160c728b7a75c3a260ef0bc04
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_BlueScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 054e42d3b72bdc9c1f813a4719ae9045
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Oculus_NightVision5
+  - hash:
+      serializedVersion: 2
+      Hash: 6b63549293c93c42ad5f5b83e1687b53
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_GrayScale
+  - hash:
+      serializedVersion: 2
+      Hash: 17024a52f2fa05eaaccc52e217ba0e73
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Glow_Glow_Color
+  - hash:
+      serializedVersion: 2
+      Hash: 378b43f0de58fc48afe3d6b2208175e7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Binary
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 4a7bb8c60377f16744cf78004b9b8a66
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_BrightContrastSaturation
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Video3D
+  - hash:
+      serializedVersion: 2
+      Hash: 9dc1ee1d5a5f7bcdbd4ebf2cce000a32
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_CellShading
+  - hash:
+      serializedVersion: 2
+      Hash: b8a5e8091ab0b8861d2add371082c5e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 7aa4df7c2a3f62813e083c88a0ad3024
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DoorSliding
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 624a0ffaad4ab8777e99e85a2aa81b1d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Lines
+  - hash:
+      serializedVersion: 2
+      Hash: caac1c52770ce5b04877971075cb6d40
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_BlackHole
+  - hash:
+      serializedVersion: 2
+      Hash: b26bb604f97c16cd839bbb714ac1f967
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_WideScreenHorizontal
+  - hash:
+      serializedVersion: 2
+      Hash: 0978c3d5bceef9cc3beb3f76ffc8aa08
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Wave_Horizontal
+  - hash:
+      serializedVersion: 2
+      Hash: c42841687a4db84a6384ea725ad411ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_AAA_Blood_Plus
+  - hash:
+      serializedVersion: 2
+      Hash: 92fa40569d20d794a14ebf27cf2e0eeb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PropertyModifier
+  - hash:
+      serializedVersion: 2
+      Hash: 7df046ede62eeadaf00f0cf471e6599a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Psycho
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Pixelisation_OilPaint
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Edge_Sobel
+  - hash:
+      serializedVersion: 2
+      Hash: 1d467aa18b80bf5ea9dd6c231a61c39d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blizzard
+  - hash:
+      serializedVersion: 2
+      Hash: 59e511212fe4b1d744bc978eff1ae6a5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_DigitalMatrixDistortion
+  - hash:
+      serializedVersion: 2
+      Hash: ec3ef9d4541f229c020afc5b9d340fa4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Paper2
+  - hash:
+      serializedVersion: 2
+      Hash: 354b82e1031e04d869e999457715c352
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Vignetting
+  - hash:
+      serializedVersion: 2
+      Hash: d8718d3877d6e38a96ff09f7cad76a0a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnemyZombie
+  - hash:
+      serializedVersion: 2
+      Hash: 3154952faf452b2aea2f940f11632d8d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Manga4
+  - hash:
+      serializedVersion: 2
+      Hash: 40e18e082595b1588f978c77e3a8e424
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Inverse
+  - hash:
+      serializedVersion: 2
+      Hash: 128875b69c3a6571659c740be0be2b82
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Artefact
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_Stripe
+  - hash:
+      serializedVersion: 2
+      Hash: a249904b912fbdeb6eb4d00c97a23483
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Edge_Neon
+  - hash:
+      serializedVersion: 2
+      Hash: 9559cc5ae879afa7baf32e0d20a8ee3c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Tilt_Shift_V
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Drunk2
+  - hash:
+      serializedVersion: 2
+      Hash: 28205dcaff5b9be180931733d94247a1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Rainbow
+  - hash:
+      serializedVersion: 2
+      Hash: 51fc19c92c647707bcdfff3bb078658b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Fog_Smoke
+  - hash:
+      serializedVersion: 2
+      Hash: 102702f5c44e69c8cdf49b3e2c06114e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Pixelisation_Dot
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Divide
+  - hash:
+      serializedVersion: 2
+      Hash: b3ab2106268377ffe25dd18ac23dca28
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Asset
+  - hash:
+      serializedVersion: 2
+      Hash: 4528c2f48aaebe9a1ac5be848dc05f68
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_DitherOffset
+  - hash:
+      serializedVersion: 2
+      Hash: 1fb1d416f91b248e0a3794f9a928ea58
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Twist
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Saturation
+  - hash:
+      serializedVersion: 2
+      Hash: 3f9272461a734324196bb2208a974305
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_EyesVision_2
+  - hash:
+      serializedVersion: 2
+      Hash: b26bb604f97c16cd839bbb714ac1f967
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_WideScreenCircle
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Old_Movie
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AudioManager
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Luminosity
+  - hash:
+      serializedVersion: 2
+      Hash: 5202db8a906f8732cb5a2e9ca2f0700e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DemoInfo
+  - hash:
+      serializedVersion: 2
+      Hash: ea9544975159509b61f6f956d939ce3f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Sharpen_Sharpen
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_ZebraColor
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_Hue
+  - hash:
+      serializedVersion: 2
+      Hash: 58a3329d037e9c5fd6f9832d929008fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Warp2
+  - hash:
+      serializedVersion: 2
+      Hash: e9389e944eb81a3a9df56fcdb09ce6a9
+    assemblyName: Unity.ProBuilder.dll
+    namespaceName: UnityEngine.ProBuilder
+    className: TriggerBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: e9389e944eb81a3a9df56fcdb09ce6a9
+    assemblyName: Unity.ProBuilder.dll
+    namespaceName: UnityEngine.ProBuilder
+    className: ColliderBehaviour
+  - hash:
+      serializedVersion: 2
+      Hash: 029458d6536b2d9ed0cbd110f6d2df7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_8bits_gb
+  - hash:
+      serializedVersion: 2
+      Hash: ec3ef9d4541f229c020afc5b9d340fa4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Paper
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Film_Grain
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Difference
+  - hash:
+      serializedVersion: 2
+      Hash: 49f053104f2dd79d86c4b98e77482a8e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Fly_Vision
+  - hash:
+      serializedVersion: 2
+      Hash: 8071038e6c43308628e973ddfefee03d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Oculus_ThermaVision
+  - hash:
+      serializedVersion: 2
+      Hash: 2ebbbd362565f85e89ccbbe5a6b1ee30
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_NightVisionFX
+  - hash:
+      serializedVersion: 2
+      Hash: 30d9fd4af32254bc997a9f54ce5e96d1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFlythrough
+  - hash:
+      serializedVersion: 2
+      Hash: fd0cd72d90e54b53c4dac978833a294d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_ColorKey
+  - hash:
+      serializedVersion: 2
+      Hash: d4c52ca002bd2eb955a442eed0bd5105
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Hypno
+  - hash:
+      serializedVersion: 2
+      Hash: 2b48c0370531a1197cd32f133f288cb3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_ShockWaveManual
+  - hash:
+      serializedVersion: 2
+      Hash: 1330c9acf046097588c152d9bc5fc7d6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Scan_Scene
+  - hash:
+      serializedVersion: 2
+      Hash: 29a6220714728f000f347c02b86d8893
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Real_VHS
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Hexagon
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 2d2400d84b3183c28d6f17c6ca94671f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_Adjust_PreFilters
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Funk
+  - hash:
+      serializedVersion: 2
+      Hash: 68b105643d865a17392791ba464d96b6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_NewPosterize
+  - hash:
+      serializedVersion: 2
+      Hash: 3154952faf452b2aea2f940f11632d8d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Manga3
+  - hash:
+      serializedVersion: 2
+      Hash: b26bb604f97c16cd839bbb714ac1f967
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_WideScreenHV
+  - hash:
+      serializedVersion: 2
+      Hash: 33a82eb555a34facf114f1a63ace5898
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_DarkMatter
+  - hash:
+      serializedVersion: 2
+      Hash: e36e990b49186086c65aecbcb943f4bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Snow
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_VividLight
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.ProGrids.dll
+    namespaceName: UnityEngine.ProGrids
+    className: IgnoreSnap
+  - hash:
+      serializedVersion: 2
+      Hash: 32769d1073d7e219f13268ff45e22e1e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Lens
+  - hash:
+      serializedVersion: 2
+      Hash: 874a783ef814516850d534147b6025c2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Atmosphere_Rain
+  - hash:
+      serializedVersion: 2
+      Hash: d4f9595e29a9fdcb381666902c2e331d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_BrokenGlass2
+  - hash:
+      serializedVersion: 2
+      Hash: 6c50f90e70070217ae7d9ffb3402dd74
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Steam
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Screen
+  - hash:
+      serializedVersion: 2
+      Hash: 51b69aa4765632fcbd011d1fbca915dd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_VHS
+  - hash:
+      serializedVersion: 2
+      Hash: b26bb604f97c16cd839bbb714ac1f967
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_WideScreenVertical
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Mirror
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Edge_Golden
+  - hash:
+      serializedVersion: 2
+      Hash: a3523c67c252dfb23374cf08be67611a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_VHS_Rewind
+  - hash:
+      serializedVersion: 2
+      Hash: 981507ad59a3d256d6538295a10075ce
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Screens
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Rgb
+  - hash:
+      serializedVersion: 2
+      Hash: 27c17eca9655aa5c2108ae9e274144c0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DebugGizmos
+  - hash:
+      serializedVersion: 2
+      Hash: 51fc19c92c647707bcdfff3bb078658b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Computer
+  - hash:
+      serializedVersion: 2
+      Hash: 3147645b84f1b6626b3229813f49beb6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_EXTRA_Rotation
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Antialiasing_FXAA
+  - hash:
+      serializedVersion: 2
+      Hash: c94ca488777e4fa515a3cd7382e3523d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_DigitalMatrix
+  - hash:
+      serializedVersion: 2
+      Hash: 5dcc5160498441c20219ebccfebd1e26
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Edge_Edge_filter
+  - hash:
+      serializedVersion: 2
+      Hash: 7d9fa23251018e4b27d1b0894a2f11d4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Atmosphere_Rain_Pro
+  - hash:
+      serializedVersion: 2
+      Hash: ffc85693fd09dfd5e2357750a934e37e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Click
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: c5c987dd7ae847495a79f5e0d1ea8fc5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Scan
+  - hash:
+      serializedVersion: 2
+      Hash: 96a9d2c05807564928b7d9442c6bddf6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Chromatical2
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Darken
+  - hash:
+      serializedVersion: 2
+      Hash: 38b08a887a876e9c826dee55fc7daca8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Move
+  - hash:
+      serializedVersion: 2
+      Hash: 3154952faf452b2aea2f940f11632d8d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Manga2
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Dot_Circle
+  - hash:
+      serializedVersion: 2
+      Hash: 6df2b3158e757f426bfdd62c6758ddb0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_Noise
+  - hash:
+      serializedVersion: 2
+      Hash: d6a8e9bec3160a152b9b2710593d3caa
+    assemblyName: Unity.ProBuilder.dll
+    namespaceName: UnityEngine.ProBuilder
+    className: ColorPalette
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Exclusion
+  - hash:
+      serializedVersion: 2
+      Hash: 74f94bbc16418bf465403ebac3a92905
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMovementController
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Heat
+  - hash:
+      serializedVersion: 2
+      Hash: 1aedbcf045dcb0ec4dd06873ea5df3bb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Mirror
+  - hash:
+      serializedVersion: 2
+      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 0d19d13161a7da50cd5212cfef899389
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Spot
+  - hash:
+      serializedVersion: 2
+      Hash: afc5b93a7b192de2dcb3832fe35a5c7e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ObjectRotate
+  - hash:
+      serializedVersion: 2
+      Hash: 7df046ede62eeadaf00f0cf471e6599a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Blood
+  - hash:
+      serializedVersion: 2
+      Hash: c26b377de4202eafea13815061c37ebb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MeleeWeapon
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 35a9693c388776aaf487636491a20f11
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 8b0800c4389f2a5ec07252a3575c5dd6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Lut_Plus
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_ColorDodge
+  - hash:
+      serializedVersion: 2
+      Hash: e1300922cc039f41ab46a47f4cb05898
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_Desert
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_Therma
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 58a3329d037e9c5fd6f9832d929008fe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Tunnel
+  - hash:
+      serializedVersion: 2
+      Hash: 05f5d51354afdcbde07ff9a2c4ac1d2b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Posterize
+  - hash:
+      serializedVersion: 2
+      Hash: 4528c2f48aaebe9a1ac5be848dc05f68
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Dithering2x2
+  - hash:
+      serializedVersion: 2
+      Hash: d685e2220b9e40bbe0e73d1a96697a24
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Atmosphere_Snow_8bits
+  - hash:
+      serializedVersion: 2
+      Hash: 3fca5ca2e212fc257c271f657be15cd7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_DarkColor
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Light_Rainbow
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Dream
+  - hash:
+      serializedVersion: 2
+      Hash: 5944b78d7f65ebcc487bc798d0ad4dcf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GunWeapon
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Flag
+  - hash:
+      serializedVersion: 2
+      Hash: 6aa6e4b501b57a96b722471d7892c154
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_GaussianBlur
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_PlanetMars
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 0128a2ddd0ae9fa3a41ab2cbee49ffd9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_8bits
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Laplacian
+  - hash:
+      serializedVersion: 2
+      Hash: 79fb957d2d0f7507f96b1908f8056615
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Radial
+  - hash:
+      serializedVersion: 2
+      Hash: 301f4da7cc3b301c161d089f9d22efed
+    assemblyName: Unity.ProBuilder.dll
+    namespaceName: UnityEngine.ProBuilder
+    className: Entity
+  - hash:
+      serializedVersion: 2
+      Hash: cbb7fa3e1a227fb0f00a2d46a8b9226e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Tilt_Shift_Hole
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_FireGradient
+  - hash:
+      serializedVersion: 2
+      Hash: c699f6b2d10d58c93dea824e0d91c6ae
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Drost
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Chromatical
+  - hash:
+      serializedVersion: 2
+      Hash: d87e3202e6c8626ce243f6a02f2618fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Retro_Loading
+  - hash:
+      serializedVersion: 2
+      Hash: 88ef2cce9b3af033985fad0d525a62c9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Ascii
+  - hash:
+      serializedVersion: 2
+      Hash: 61de1c1b3e55f95199b04305b7034130
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Oculus_NightVision1
+  - hash:
+      serializedVersion: 2
+      Hash: 95317861ea2f940c3ae1f37c4a6010fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Toon
+  - hash:
+      serializedVersion: 2
+      Hash: 408cf81c0ca73ffc77cc9c9211f19757
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Tiles
+  - hash:
+      serializedVersion: 2
+      Hash: 3a0ea56e42b79dc4ba511e881287e14e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Half_Sphere
+  - hash:
+      serializedVersion: 2
+      Hash: dcf03c23fe736b4c6d4ac0f992f37ea0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Dissipation
+  - hash:
+      serializedVersion: 2
+      Hash: 2ada6b5e77fec708e421262a95937f4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_HSV
+  - hash:
+      serializedVersion: 2
+      Hash: efc23e5ee1026792ea001402cf745cb7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_SplitScreen3D
+  - hash:
+      serializedVersion: 2
+      Hash: d87e3202e6c8626ce243f6a02f2618fb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Colors_HUE_Rotate
+  - hash:
+      serializedVersion: 2
+      Hash: 708f32d160c728b7a75c3a260ef0bc04
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_GreenScreen
+  - hash:
+      serializedVersion: 2
+      Hash: 95317861ea2f940c3ae1f37c4a6010fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Halftone
+  - hash:
+      serializedVersion: 2
+      Hash: 8001a5f7502aab37e42206da015e6914
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 041ceecf154486490dfaded59df4ac4e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_ARCADE_2
+  - hash:
+      serializedVersion: 2
+      Hash: 1043f5a3358dfe831c1d4329ee4e30fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Manga_Flash
+  - hash:
+      serializedVersion: 2
+      Hash: 070b02723aa2f01f7dfdd80eb5a0a474
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerWeaponController
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_ElectricGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Overlay
+  - hash:
+      serializedVersion: 2
+      Hash: 49dd13de2b9e7e7a9c36277dc943d6bf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Special_Bubble
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 79fb957d2d0f7507f96b1908f8056615
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Radial_Fast
+  - hash:
+      serializedVersion: 2
+      Hash: 080368b7ebf4c46a582b52d19c743a36
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_SplitScreen
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: e1bdd74b6352d37dd4d0a6c5fdae13fc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Lut_PlayWith
+  - hash:
+      serializedVersion: 2
+      Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 9ae5a102e21c34595145e77bf722bf6a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Alien_Vision
+  - hash:
+      serializedVersion: 2
+      Hash: a70a982231696d65d448a4081f396684
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Manga_Flash_Color
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_ColorBurn
+  - hash:
+      serializedVersion: 2
+      Hash: c4b0317e25ea3d36bb7240179c3be479
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_AAA_Blood
+  - hash:
+      serializedVersion: 2
+      Hash: 8293a4120f9b86f02735411951b68551
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Movie
+  - hash:
+      serializedVersion: 2
+      Hash: fbf230e69320af5efa3edce95607c133
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PSXEffects
+  - hash:
+      serializedVersion: 2
+      Hash: 1e5bc7d9bac0828d848153dc8a7887be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Ghost
+  - hash:
+      serializedVersion: 2
+      Hash: 78b53eb6273805a0d2a088c660568346
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Light_Water2
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_LighterColor
+  - hash:
+      serializedVersion: 2
+      Hash: d4d16f6e23bec26d5fbe177e56281b8a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_CompressionFX
+  - hash:
+      serializedVersion: 2
+      Hash: 2a497de10efb55a7213c1b3c784739f3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_NightVision_4
+  - hash:
+      serializedVersion: 2
+      Hash: 6890dc712a335df646e8eb25832ee9e5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_BigFace
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Psycho
+  - hash:
+      serializedVersion: 2
+      Hash: 57c49402f031e6bc4902fe68df93dcb8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Hell_Blood
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Noise
+  - hash:
+      serializedVersion: 2
+      Hash: f624a026ff6da6ec55145522c5e7089f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Gradients_Rainbow
+  - hash:
+      serializedVersion: 2
+      Hash: 4528c2f48aaebe9a1ac5be848dc05f68
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Regular
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DemoValueChanger
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Vintage
+  - hash:
+      serializedVersion: 2
+      Hash: 603e36f213c20d70aba3297699deacba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WeaponDrop
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 4c07bc6034d53e3722e4058fade1363c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Atmosphere_Fog
+  - hash:
+      serializedVersion: 2
+      Hash: b6ba7fdfc520a07898c9905f9a04b426
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_ARCADE
+  - hash:
+      serializedVersion: 2
+      Hash: 54a4f22fc17808801b0d97353598e4eb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_EarthQuake
+  - hash:
+      serializedVersion: 2
+      Hash: 7818caf9369abda60585b2e1bffa09c1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_PhotoshopFilters
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 209ab865b402729300b564f83e894e55
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_Chromatic_Aberration
+  - hash:
+      serializedVersion: 2
+      Hash: 349db2a18e2320a3ffe228fe8458aa74
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_VHS_Tracking
+  - hash:
+      serializedVersion: 2
+      Hash: 30c5a52571e2db139f22ee266803a229
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerMovement
+  - hash:
+      serializedVersion: 2
+      Hash: bb6c52a6dfed4379851dc1f068e45663
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_OldFilm_Cutting1
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_SoftLight
+  - hash:
+      serializedVersion: 2
+      Hash: 0ec6fa2d144d5662a13afafc3c1efa57
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Lut_TestMode
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_LinearBurn
+  - hash:
+      serializedVersion: 2
+      Hash: 3154952faf452b2aea2f940f11632d8d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Manga5
+  - hash:
+      serializedVersion: 2
+      Hash: 171ee9e3d32f57eb7292b56ea94de3d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_NewCellShading
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Vcr
+  - hash:
+      serializedVersion: 2
+      Hash: 6046d32e6350a526395ea3dc023a0651
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_BlackHole
+  - hash:
+      serializedVersion: 2
+      Hash: 3f9272461a734324196bb2208a974305
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_EyesVision_1
+  - hash:
+      serializedVersion: 2
+      Hash: 2bec4a9536db6801f56a95a4784c670a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Anomaly
+  - hash:
+      serializedVersion: 2
+      Hash: cd20b9fd17e7868f7ac9db6376eb3dca
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_Contrast
+  - hash:
+      serializedVersion: 2
+      Hash: 1fb1d416f91b248e0a3794f9a928ea58
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Twist_Square
+  - hash:
+      serializedVersion: 2
+      Hash: 7f14431d37607fb79b1f7fdd770a8a7c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_BrokenGlass
+  - hash:
+      serializedVersion: 2
+      Hash: 21d73eda81c18eacd2c91ad5dfaf2e32
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: cde323a8c9048ea37ab6fdeeba67af89
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SceneManager
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Lighten
+  - hash:
+      serializedVersion: 2
+      Hash: 6b63549293c93c42ad5f5b83e1687b53
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_Invert
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_Multiply
+  - hash:
+      serializedVersion: 2
+      Hash: 2ed544f5f6dc87e56d72da91ab3c4d71
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Dream2
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: e1f61c19ad1e715b2a5325024b655697
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_Horror
+  - hash:
+      serializedVersion: 2
+      Hash: 1dc6c25b2518ecc3e461d4663f675a91
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_TV_LED
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_HardLight
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: f54ae57163c21be1eeae3089e3ba7976
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_AAA_WaterDropPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3154952faf452b2aea2f940f11632d8d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Manga
+  - hash:
+      serializedVersion: 2
+      Hash: 59558621bb8214a328b6bfde4bff45a1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Light_Water
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 29371d52901ee0f9661e5f132f4d4733
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Lut_Simple
+  - hash:
+      serializedVersion: 2
+      Hash: f03d23f8e1edd11a220133e6ebbafeeb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Glitch_Mozaic
+  - hash:
+      serializedVersion: 2
+      Hash: b1695cb6f2401800d896a2ba49563113
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_ShockWave
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 8649814970b42d345b89944b862453cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 0e473da3aa6a2fa43e818f28657a31dc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_3D_Myst
+  - hash:
+      serializedVersion: 2
+      Hash: 6644c898eb33311c881cbd6b672fb6e6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Oculus_NightVision3
+  - hash:
+      serializedVersion: 2
+      Hash: d40f07a54262dda0ae144907b2308813
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Aura
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 476f1e8e421c374df8010b98a706c5ba
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Atmosphere_Rain_Pro_3D
+  - hash:
+      serializedVersion: 2
+      Hash: 4ef0f7d42cdb13479386e1f049c315aa
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 682dcd726c71c0a17f349857dc6ab28c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Noise
+  - hash:
+      serializedVersion: 2
+      Hash: d393141f8aea9321da1f48ec032f043f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Edge_Sigmoid
+  - hash:
+      serializedVersion: 2
+      Hash: 0cc3f5a5ea651382d21ec33b304cd02d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_Chromatic_Plus
+  - hash:
+      serializedVersion: 2
+      Hash: 724456c8b3570ce00a7527a08aadc75e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blend2Camera_LinearDodge
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_FX_Drunk
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: d4e58c0887e6a96c21e4f8a8938a0f7a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_YUV
+  - hash:
+      serializedVersion: 2
+      Hash: 499e4d1bd8ce7b6190d2b87bc31d3343
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Film_ColorPerfection
+  - hash:
+      serializedVersion: 2
+      Hash: ec3ef9d4541f229c020afc5b9d340fa4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_BluePrint
+  - hash:
+      serializedVersion: 2
+      Hash: 7969845b48822bc86e8bf15770d3db67
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Color_RGB
+  - hash:
+      serializedVersion: 2
+      Hash: e1f61c19ad1e715b2a5325024b655697
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Noise_TV
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 73eb9a8be6a476f5ad6ad0d29625d5d0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_AAA_SuperHexagon
+  - hash:
+      serializedVersion: 2
+      Hash: 49b82dc48657efc1dd29bc20f0ede447
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_CellShading2
+  - hash:
+      serializedVersion: 2
+      Hash: 8173c39d7fff1c7f17dd4e190501e6bd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraOrbit
+  - hash:
+      serializedVersion: 2
+      Hash: 4ae151857fb38a2289e628182a722bbd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_EnhancedComics
+  - hash:
+      serializedVersion: 2
+      Hash: 73571812a5596f0206df00a66652fa3a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PlayerFootstepsController
+  - hash:
+      serializedVersion: 2
+      Hash: 4528c2f48aaebe9a1ac5be848dc05f68
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Blur_Noise
+  - hash:
+      serializedVersion: 2
+      Hash: 7df046ede62eeadaf00f0cf471e6599a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Vision_Blood_Fast
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 8f77039b1198117bbdac4baca0d19e5b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Distortion_Flush
+  - hash:
+      serializedVersion: 2
+      Hash: 1043f5a3358dfe831c1d4329ee4e30fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_Drawing_Manga_FlashWhite
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: d46eda3fc02d181fecbcbc523c648f61
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: CameraFilterPack_AAA_Blood_Hit
+  platform: 5
+  scenePathNames:
+  - Assets/Scenes/SampleScene.unity
+  playerPath: C:/Users/Wilfre/Documents/Unity Exports/DoomLike/Pixel_Shooter.exe

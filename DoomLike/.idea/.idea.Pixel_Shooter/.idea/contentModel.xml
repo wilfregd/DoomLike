@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Wilfre\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Wilfre\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Pixel_Shooter.-1501765780.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Wilfre\Documents\Unity Projects\Pixel_Shooter\Pixel_Shooter" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Packages" t="Include">
+          <e p="Camera Filter Pack" t="Include">
+            <e p="Resources" t="Include">
+              <e p="CameraFilterPack_3D_Anomaly.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Binary.shader" t="Include" />
+              <e p="CameraFilterPack_3D_BlackHole.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Computer.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Distortion.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Dust.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Fog_Smoke.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Ghost.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Inverse.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Matrix.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Mirror.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Myst.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Scan_Scene.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Shield.shader" t="Include" />
+              <e p="CameraFilterPack_3D_Snow.shader" t="Include" />
+              <e p="CameraFilterPack_AAA_Blood.shader" t="Include" />
+              <e p="CameraFilterPack_AAA_Blood_Hit.shader" t="Include" />
+              <e p="CameraFilterPack_AAA_Blood_Plus.shader" t="Include" />
+              <e p="CameraFilterPack_AAA_BloodOnScreen.shader" t="Include" />
+              <e p="CameraFilterPack_AAA_SuperComputer.shader" t="Include" />
+              <e p="CameraFilterPack_AAA_SuperHexagon.shader" t="Include" />
+              <e p="CameraFilterPack_AAA_WaterDrop.shader" t="Include" />
+              <e p="CameraFilterPack_AAA_WaterDropPro.shader" t="Include" />
+              <e p="CameraFilterPack_Alien_Vision.shader" t="Include" />
+              <e p="CameraFilterPack_Antialiasing_FXAA.shader" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Fog.shader" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Rain.shader" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Rain_Pro.shader" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Rain_Pro_3D.shader" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Snow_8bits.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Blend.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_BlueScreen.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Color.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_ColorBurn.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_ColorDodge.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_ColorKey.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Darken.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_DarkerColor.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Difference.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Divide.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Exclusion.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_GreenScreen.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_HardLight.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_HardMix.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Hue.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Lighten.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_LighterColor.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_LinearBurn.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_LinearDodge.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_LinearLight.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Luminosity.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Multiply.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Overlay.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_PinLight.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Saturation.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Screen.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_SoftLight.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_SplitScreen.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_SplitScreen3D.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Subtract.shader" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_VividLight.shader" t="Include" />
+              <e p="CameraFilterPack_Blizzard.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Bloom.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_BlurHole.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Blurry.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Dithering2x2.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_DitherOffset.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Focus.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_GaussianBlur.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Movie.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Noise.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Radial.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Radial_Fast.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Regular.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Steam.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Tilt_Shift.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Tilt_Shift_Hole.shader" t="Include" />
+              <e p="CameraFilterPack_Blur_Tilt_Shift_V.shader" t="Include" />
+              <e p="CameraFilterPack_Color_BrightContrastSaturation.shader" t="Include" />
+              <e p="CameraFilterPack_Color_Chromatic_Aberration.shader" t="Include" />
+              <e p="CameraFilterPack_Color_Chromatic_Plus.shader" t="Include" />
+              <e p="CameraFilterPack_Color_Contrast.shader" t="Include" />
+              <e p="CameraFilterPack_Color_GrayScale.shader" t="Include" />
+              <e p="CameraFilterPack_Color_Invert.shader" t="Include" />
+              <e p="CameraFilterPack_Color_Noise.shader" t="Include" />
+              <e p="CameraFilterPack_Color_RGB.shader" t="Include" />
+              <e p="CameraFilterPack_Color_Sepia.shader" t="Include" />
+              <e p="CameraFilterPack_Color_Switching.shader" t="Include" />
+              <e p="CameraFilterPack_Color_YUV.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_Adjust_ColorRGB.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_Adjust_FullColors.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_Adjust_PreFilters.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_BleachBypass.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_Brightness.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_DarkColor.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_HSV.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_HUE_Rotate.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_NewPosterize.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_RgbClamp.shader" t="Include" />
+              <e p="CameraFilterPack_Colors_Threshold.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Aspiration.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_BigFace.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_BlackHole.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Dissipation.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Dream.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Dream2.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_FishEye.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Flag.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Flush.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Half_Sphere.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Heat.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Lens.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Noise.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_ShockWave.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_ShockWaveManual.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Twist.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Twist_Square.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Water_Drop.shader" t="Include" />
+              <e p="CameraFilterPack_Distortion_Wave_Horizontal.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_BluePrint.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_CellShading.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_CellShading2.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Comics.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Crosshatch.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Curve.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_EnhancedComics.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Halftone.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Laplacian.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Lines.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga2.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga3.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga4.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga5.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga_Color.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga_Flash.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga_Flash_Color.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga_FlashWhite.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_NewCellShading.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Paper.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Paper2.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Paper3.shader" t="Include" />
+              <e p="CameraFilterPack_Drawing_Toon.shader" t="Include" />
+              <e p="CameraFilterPack_Edge_BlackLine.shader" t="Include" />
+              <e p="CameraFilterPack_Edge_Edge_filter.shader" t="Include" />
+              <e p="CameraFilterPack_Edge_Golden.shader" t="Include" />
+              <e p="CameraFilterPack_Edge_Neon.shader" t="Include" />
+              <e p="CameraFilterPack_Edge_Sigmoid.shader" t="Include" />
+              <e p="CameraFilterPack_Edge_Sobel.shader" t="Include" />
+              <e p="CameraFilterPack_EXTRA_Rotation.shader" t="Include" />
+              <e p="CameraFilterPack_EXTRA_SHOWFPS.shader" t="Include" />
+              <e p="CameraFilterPack_EyesVision_1.shader" t="Include" />
+              <e p="CameraFilterPack_EyesVision_2.shader" t="Include" />
+              <e p="CameraFilterPack_Film_ColorPerfection.shader" t="Include" />
+              <e p="CameraFilterPack_Film_Grain.shader" t="Include" />
+              <e p="CameraFilterPack_Fly_Vision.shader" t="Include" />
+              <e p="CameraFilterPack_FX_8bits.shader" t="Include" />
+              <e p="CameraFilterPack_FX_8bits_gb.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Ascii.shader" t="Include" />
+              <e p="CameraFilterPack_FX_DarkMatter.shader" t="Include" />
+              <e p="CameraFilterPack_FX_DigitalMatrix.shader" t="Include" />
+              <e p="CameraFilterPack_FX_DigitalMatrixDistortion.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Dot_Circle.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Drunk.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Drunk2.shader" t="Include" />
+              <e p="CameraFilterPack_FX_EarthQuake.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Funk.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Glitch1.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Glitch2.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Glitch3.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Grid.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Hexagon.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Hexagon_Black.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Hypno.shader" t="Include" />
+              <e p="CameraFilterPack_FX_InverChromiLum.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Mirror.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Plasma.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Psycho.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Scan.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Screens.shader" t="Include" />
+              <e p="CameraFilterPack_FX_Spot.shader" t="Include" />
+              <e p="CameraFilterPack_FX_superDot.shader" t="Include" />
+              <e p="CameraFilterPack_FX_ZebraColor.shader" t="Include" />
+              <e p="CameraFilterPack_Glitch_Mozaic.shader" t="Include" />
+              <e p="CameraFilterPack_Glow_Glow.shader" t="Include" />
+              <e p="CameraFilterPack_Glow_Glow_Color.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_Ansi.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_Desert.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_ElectricGradient.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_FireGradient.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_Hue.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_NeonGradient.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_Rainbow.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_Stripe.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_Tech.shader" t="Include" />
+              <e p="CameraFilterPack_Gradients_Therma.shader" t="Include" />
+              <e p="CameraFilterPack_Light_Rainbow.shader" t="Include" />
+              <e p="CameraFilterPack_Light_Rainbow2.shader" t="Include" />
+              <e p="CameraFilterPack_Light_Water.shader" t="Include" />
+              <e p="CameraFilterPack_Light_Water2.shader" t="Include" />
+              <e p="CameraFilterPack_Lut_PlayWith.shader" t="Include" />
+              <e p="CameraFilterPack_Lut_Plus.shader" t="Include" />
+              <e p="CameraFilterPack_Lut_Simple.shader" t="Include" />
+              <e p="CameraFilterPack_Lut_TestMode.shader" t="Include" />
+              <e p="CameraFilterPack_NightVision_4.shader" t="Include" />
+              <e p="CameraFilterPack_NightVisionFX.shader" t="Include" />
+              <e p="CameraFilterPack_Noise_TV.shader" t="Include" />
+              <e p="CameraFilterPack_Noise_TV_2.shader" t="Include" />
+              <e p="CameraFilterPack_Noise_TV_3.shader" t="Include" />
+              <e p="CameraFilterPack_Oculus_NightVision1.shader" t="Include" />
+              <e p="CameraFilterPack_Oculus_NightVision2.shader" t="Include" />
+              <e p="CameraFilterPack_Oculus_NightVision3.shader" t="Include" />
+              <e p="CameraFilterPack_Oculus_NightVision5.shader" t="Include" />
+              <e p="CameraFilterPack_Oculus_ThermaVision.shader" t="Include" />
+              <e p="CameraFilterPack_OldFilm_Cutting1.shader" t="Include" />
+              <e p="CameraFilterPack_OldFilm_Cutting2.shader" t="Include" />
+              <e p="CameraFilterPack_Pixel_Pixelisation.shader" t="Include" />
+              <e p="CameraFilterPack_Pixelisation_Dot.shader" t="Include" />
+              <e p="CameraFilterPack_Pixelisation_OilPaint.shader" t="Include" />
+              <e p="CameraFilterPack_Pixelisation_OilPaintHQ.shader" t="Include" />
+              <e p="CameraFilterPack_Pixelisation_Sweater.shader" t="Include" />
+              <e p="CameraFilterPack_Real_VHS.shader" t="Include" />
+              <e p="CameraFilterPack_Retro_Loading.shader" t="Include" />
+              <e p="CameraFilterPack_Sharpen_Sharpen.shader" t="Include" />
+              <e p="CameraFilterPack_Special_Bubble.shader" t="Include" />
+              <e p="CameraFilterPack_TV_50.shader" t="Include" />
+              <e p="CameraFilterPack_TV_80.shader" t="Include" />
+              <e p="CameraFilterPack_TV_ARCADE.shader" t="Include" />
+              <e p="CameraFilterPack_TV_ARCADE_2.shader" t="Include" />
+              <e p="CameraFilterPack_TV_ARCADE_Fast.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Artefact.shader" t="Include" />
+              <e p="CameraFilterPack_TV_BrokenGlass.shader" t="Include" />
+              <e p="CameraFilterPack_TV_BrokenGlass2.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Chromatical.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Chromatical2.shader" t="Include" />
+              <e p="CameraFilterPack_TV_CompressionFX.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Distorted.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Horror.shader" t="Include" />
+              <e p="CameraFilterPack_TV_LED.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Noise.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Old.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Old_Movie.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Old_Movie_2.shader" t="Include" />
+              <e p="CameraFilterPack_TV_PlanetMars.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Posterize.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Rgb.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Tiles.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Vcr.shader" t="Include" />
+              <e p="CameraFilterPack_TV_VHS.shader" t="Include" />
+              <e p="CameraFilterPack_TV_VHS_Rewind.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Video3D.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Videoflip.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Vignetting.shader" t="Include" />
+              <e p="CameraFilterPack_TV_Vintage.shader" t="Include" />
+              <e p="CameraFilterPack_TV_WideScreenCircle.shader" t="Include" />
+              <e p="CameraFilterPack_TV_WideScreenHorizontal.shader" t="Include" />
+              <e p="CameraFilterPack_TV_WideScreenHV.shader" t="Include" />
+              <e p="CameraFilterPack_TV_WideScreenVertical.shader" t="Include" />
+              <e p="CameraFilterPack_VHS_Tracking.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Aura.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_AuraDistortion.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Blood.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Blood_Fast.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Crystal.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Drost.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Hell_Blood.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Plasma.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Psycho.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Rainbow.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Tunnel.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Warp.shader" t="Include" />
+              <e p="CameraFilterPack_Vision_Warp2.shader" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="CameraFilterPack_3D_Anomaly.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Binary.cs" t="Include" />
+              <e p="CameraFilterPack_3D_BlackHole.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Computer.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Distortion.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Fog_Smoke.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Ghost.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Inverse.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Matrix.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Mirror.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Myst.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Scan_Scene.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Shield.cs" t="Include" />
+              <e p="CameraFilterPack_3D_Snow.cs" t="Include" />
+              <e p="CameraFilterPack_AAA_Blood.cs" t="Include" />
+              <e p="CameraFilterPack_AAA_Blood_Hit.cs" t="Include" />
+              <e p="CameraFilterPack_AAA_Blood_Plus.cs" t="Include" />
+              <e p="CameraFilterPack_AAA_BloodOnScreen.cs" t="Include" />
+              <e p="CameraFilterPack_AAA_SuperComputer.cs" t="Include" />
+              <e p="CameraFilterPack_AAA_SuperHexagon.cs" t="Include" />
+              <e p="CameraFilterPack_AAA_WaterDrop.cs" t="Include" />
+              <e p="CameraFilterPack_AAA_WaterDropPro.cs" t="Include" />
+              <e p="CameraFilterPack_Alien_Vision.cs" t="Include" />
+              <e p="CameraFilterPack_Antialiasing_FXAA.cs" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Fog.cs" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Rain.cs" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Rain_Pro.cs" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Rain_Pro_3D.cs" t="Include" />
+              <e p="CameraFilterPack_Atmosphere_Snow_8bits.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Blend.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_BlueScreen.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Color.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_ColorBurn.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_ColorDodge.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_ColorKey.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Darken.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_DarkerColor.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Difference.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Divide.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Exclusion.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_GreenScreen.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_HardLight.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_HardMix.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Hue.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Lighten.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_LighterColor.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_LinearBurn.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_LinearDodge.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_LinearLight.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Luminosity.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Multiply.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Overlay.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_PhotoshopFilters.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_PinLight.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Saturation.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Screen.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_SoftLight.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_SplitScreen.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_SplitScreen3D.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_Subtract.cs" t="Include" />
+              <e p="CameraFilterPack_Blend2Camera_VividLight.cs" t="Include" />
+              <e p="CameraFilterPack_Blizzard.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Bloom.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_BlurHole.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Blurry.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Dithering2x2.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_DitherOffset.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Focus.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_GaussianBlur.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Movie.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Noise.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Radial.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Radial_Fast.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Regular.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Steam.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Tilt_Shift.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Tilt_Shift_Hole.cs" t="Include" />
+              <e p="CameraFilterPack_Blur_Tilt_Shift_V.cs" t="Include" />
+              <e p="CameraFilterPack_Color_BrightContrastSaturation.cs" t="Include" />
+              <e p="CameraFilterPack_Color_Chromatic_Aberration.cs" t="Include" />
+              <e p="CameraFilterPack_Color_Chromatic_Plus.cs" t="Include" />
+              <e p="CameraFilterPack_Color_Contrast.cs" t="Include" />
+              <e p="CameraFilterPack_Color_GrayScale.cs" t="Include" />
+              <e p="CameraFilterPack_Color_Invert.cs" t="Include" />
+              <e p="CameraFilterPack_Color_Noise.cs" t="Include" />
+              <e p="CameraFilterPack_Color_RGB.cs" t="Include" />
+              <e p="CameraFilterPack_Color_Sepia.cs" t="Include" />
+              <e p="CameraFilterPack_Color_Switching.cs" t="Include" />
+              <e p="CameraFilterPack_Color_YUV.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_Adjust_ColorRGB.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_Adjust_FullColors.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_Adjust_PreFilters.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_BleachBypass.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_Brightness.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_DarkColor.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_HSV.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_HUE_Rotate.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_NewPosterize.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_RgbClamp.cs" t="Include" />
+              <e p="CameraFilterPack_Colors_Threshold.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Aspiration.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_BigFace.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_BlackHole.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Dissipation.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Dream.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Dream2.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_FishEye.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Flag.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Flush.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Half_Sphere.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Heat.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Lens.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Noise.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_ShockWave.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_ShockWaveManual.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Twist.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Twist_Square.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Water_Drop.cs" t="Include" />
+              <e p="CameraFilterPack_Distortion_Wave_Horizontal.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_BluePrint.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_CellShading.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_CellShading2.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Comics.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Crosshatch.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Curve.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_EnhancedComics.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Halftone.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Laplacian.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Lines.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga2.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga3.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga4.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga5.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga_Color.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga_Flash.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga_Flash_Color.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Manga_FlashWhite.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_NewCellShading.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Paper.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Paper2.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Paper3.cs" t="Include" />
+              <e p="CameraFilterPack_Drawing_Toon.cs" t="Include" />
+              <e p="CameraFilterPack_Edge_BlackLine.cs" t="Include" />
+              <e p="CameraFilterPack_Edge_Edge_filter.cs" t="Include" />
+              <e p="CameraFilterPack_Edge_Golden.cs" t="Include" />
+              <e p="CameraFilterPack_Edge_Neon.cs" t="Include" />
+              <e p="CameraFilterPack_Edge_Sigmoid.cs" t="Include" />
+              <e p="CameraFilterPack_Edge_Sobel.cs" t="Include" />
+              <e p="CameraFilterPack_EXTRA_Rotation.cs" t="Include" />
+              <e p="CameraFilterPack_EXTRA_SHOWFPS.cs" t="Include" />
+              <e p="CameraFilterPack_EyesVision_1.cs" t="Include" />
+              <e p="CameraFilterPack_EyesVision_2.cs" t="Include" />
+              <e p="CameraFilterPack_Film_ColorPerfection.cs" t="Include" />
+              <e p="CameraFilterPack_Film_Grain.cs" t="Include" />
+              <e p="CameraFilterPack_Fly_Vision.cs" t="Include" />
+              <e p="CameraFilterPack_FX_8bits.cs" t="Include" />
+              <e p="CameraFilterPack_FX_8bits_gb.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Ascii.cs" t="Include" />
+              <e p="CameraFilterPack_FX_DarkMatter.cs" t="Include" />
+              <e p="CameraFilterPack_FX_DigitalMatrix.cs" t="Include" />
+              <e p="CameraFilterPack_FX_DigitalMatrixDistortion.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Dot_Circle.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Drunk.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Drunk2.cs" t="Include" />
+              <e p="CameraFilterPack_FX_EarthQuake.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Funk.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Glitch1.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Glitch2.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Glitch3.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Grid.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Hexagon.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Hexagon_Black.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Hypno.cs" t="Include" />
+              <e p="CameraFilterPack_FX_InverChromiLum.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Mirror.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Plasma.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Psycho.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Scan.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Screens.cs" t="Include" />
+              <e p="CameraFilterPack_FX_Spot.cs" t="Include" />
+              <e p="CameraFilterPack_FX_superDot.cs" t="Include" />
+              <e p="CameraFilterPack_FX_ZebraColor.cs" t="Include" />
+              <e p="CameraFilterPack_Glitch_Mozaic.cs" t="Include" />
+              <e p="CameraFilterPack_Glow_Glow.cs" t="Include" />
+              <e p="CameraFilterPack_Glow_Glow_Color.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_Ansi.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_Desert.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_ElectricGradient.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_FireGradient.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_Hue.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_NeonGradient.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_Rainbow.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_Stripe.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_Tech.cs" t="Include" />
+              <e p="CameraFilterPack_Gradients_Therma.cs" t="Include" />
+              <e p="CameraFilterPack_Light_Rainbow.cs" t="Include" />
+              <e p="CameraFilterPack_Light_Rainbow2.cs" t="Include" />
+              <e p="CameraFilterPack_Light_Water.cs" t="Include" />
+              <e p="CameraFilterPack_Light_Water2.cs" t="Include" />
+              <e p="CameraFilterPack_Lut_PlayWith.cs" t="Include" />
+              <e p="CameraFilterPack_Lut_Plus.cs" t="Include" />
+              <e p="CameraFilterPack_Lut_Simple.cs" t="Include" />
+              <e p="CameraFilterPack_Lut_TestMode.cs" t="Include" />
+              <e p="CameraFilterPack_NightVision_4.cs" t="Include" />
+              <e p="CameraFilterPack_NightVisionFX.cs" t="Include" />
+              <e p="CameraFilterPack_Noise_TV.cs" t="Include" />
+              <e p="CameraFilterPack_Noise_TV_2.cs" t="Include" />
+              <e p="CameraFilterPack_Noise_TV_3.cs" t="Include" />
+              <e p="CameraFilterPack_Oculus_NightVision1.cs" t="Include" />
+              <e p="CameraFilterPack_Oculus_NightVision2.cs" t="Include" />
+              <e p="CameraFilterPack_Oculus_NightVision3.cs" t="Include" />
+              <e p="CameraFilterPack_Oculus_NightVision5.cs" t="Include" />
+              <e p="CameraFilterPack_Oculus_ThermaVision.cs" t="Include" />
+              <e p="CameraFilterPack_OldFilm_Cutting1.cs" t="Include" />
+              <e p="CameraFilterPack_OldFilm_Cutting2.cs" t="Include" />
+              <e p="CameraFilterPack_Pixel_Pixelisation.cs" t="Include" />
+              <e p="CameraFilterPack_Pixelisation_Dot.cs" t="Include" />
+              <e p="CameraFilterPack_Pixelisation_OilPaint.cs" t="Include" />
+              <e p="CameraFilterPack_Pixelisation_OilPaintHQ.cs" t="Include" />
+              <e p="CameraFilterPack_Pixelisation_Sweater.cs" t="Include" />
+              <e p="CameraFilterPack_Real_VHS.cs" t="Include" />
+              <e p="CameraFilterPack_Retro_Loading.cs" t="Include" />
+              <e p="CameraFilterPack_Sharpen_Sharpen.cs" t="Include" />
+              <e p="CameraFilterPack_Special_Bubble.cs" t="Include" />
+              <e p="CameraFilterPack_TV_50.cs" t="Include" />
+              <e p="CameraFilterPack_TV_80.cs" t="Include" />
+              <e p="CameraFilterPack_TV_ARCADE.cs" t="Include" />
+              <e p="CameraFilterPack_TV_ARCADE_2.cs" t="Include" />
+              <e p="CameraFilterPack_TV_ARCADE_Fast.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Artefact.cs" t="Include" />
+              <e p="CameraFilterPack_TV_BrokenGlass.cs" t="Include" />
+              <e p="CameraFilterPack_TV_BrokenGlass2.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Chromatical.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Chromatical2.cs" t="Include" />
+              <e p="CameraFilterPack_TV_CompressionFX.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Distorted.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Horror.cs" t="Include" />
+              <e p="CameraFilterPack_TV_LED.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Noise.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Old.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Old_Movie.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Old_Movie_2.cs" t="Include" />
+              <e p="CameraFilterPack_TV_PlanetMars.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Posterize.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Rgb.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Tiles.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Vcr.cs" t="Include" />
+              <e p="CameraFilterPack_TV_VHS.cs" t="Include" />
+              <e p="CameraFilterPack_TV_VHS_Rewind.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Video3D.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Videoflip.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Vignetting.cs" t="Include" />
+              <e p="CameraFilterPack_TV_Vintage.cs" t="Include" />
+              <e p="CameraFilterPack_TV_WideScreenCircle.cs" t="Include" />
+              <e p="CameraFilterPack_TV_WideScreenHorizontal.cs" t="Include" />
+              <e p="CameraFilterPack_TV_WideScreenHV.cs" t="Include" />
+              <e p="CameraFilterPack_TV_WideScreenVertical.cs" t="Include" />
+              <e p="CameraFilterPack_VHS_Tracking.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Aura.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_AuraDistortion.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Blood.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Blood_Fast.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Crystal.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Drost.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Hell_Blood.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Plasma.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Psycho.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Rainbow.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Tunnel.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Warp.cs" t="Include" />
+              <e p="CameraFilterPack_Vision_Warp2.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Grunge UI Kit" t="Include">
+            <e p="Source Files" t="Include">
+              <e p="Fonts" t="Include">
+                <e p="Frijole Font" t="Include">
+                  <e p="FrijoleLicense_OFL.txt" t="Include" />
+                  <e p="OFL-FAQ.txt" t="Include" />
+                </e>
+                <e p="Montserrat" t="Include">
+                  <e p="Montserrat_OFL.txt" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="PSXEffects" t="Include">
+            <e p="Documentation.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="PS1EffectsEditor.cs" t="Include" />
+              <e p="PS1ShaderEditor.cs" t="Include" />
+            </e>
+            <e p="Example" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="CameraFlythrough.cs" t="Include" />
+                <e p="CameraMovement.cs" t="Include" />
+                <e p="CameraOrbit.cs" t="Include" />
+                <e p="DemoInfo.cs" t="Include" />
+                <e p="DemoValueChanger.cs" t="Include" />
+                <e p="ObjectRotate.cs" t="Include" />
+                <e p="PlayerMovement.cs" t="Include" />
+                <e p="PropertyModifier.cs" t="Include" />
+                <e p="VertexColors.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="PSXEffects.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Resources" t="Include">
+                <e p="PS1PostProcessing.shader" t="Include" />
+                <e p="PS1Shader.shader" t="Include" />
+                <e p="PSXEffects.cginc" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Spherical Skybox" t="Include">
+            <e p="Click.cs" t="Include" />
+            <e p="Move.cs" t="Include" />
+            <e p="read me.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Debug" t="Include">
+            <e p="DebugGizmos.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DebugGizmosEditor.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Enemies" t="Include">
+            <e p="EnemyZombie.cs" t="Include" />
+            <e p="EntityEnemy.cs" t="Include" />
+          </e>
+          <e p="Entities" t="Include">
+            <e p="WeaponDrop.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IInteractive.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="PlayerFootstepsController.cs" t="Include" />
+            <e p="PlayerInteractionController.cs" t="Include" />
+            <e p="PlayerMovementController.cs" t="Include" />
+            <e p="PlayerWeaponController.cs" t="Include" />
+          </e>
+          <e p="system" t="Include">
+            <e p="AudioManager.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="SceneManager.cs" t="Include" />
+          </e>
+          <e p="Utils" t="Include">
+            <e p="TimedDestroy.cs" t="Include" />
+          </e>
+          <e p="Weapons" t="Include">
+            <e p="GunWeapon.cs" t="Include" />
+            <e p="MeleeWeapon.cs" t="Include" />
+            <e p="Weapon.cs" t="Include" />
+          </e>
+          <e p="World" t="Include">
+            <e p="DoorSliding.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Custom" t="Include">
+            <e p="BillboardSprite.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Pixel_Shooter.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
